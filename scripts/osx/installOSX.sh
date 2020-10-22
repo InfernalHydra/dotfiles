@@ -38,3 +38,9 @@ git clone https://github.com/zsh-users/zsh-autosuggestions.git $ZSH_CUSTOM/plugi
 
 # zsh syntax highlighting
 git clone https://github.com/zsh-users/zsh-syntax-highlighting.git $ZSH_CUSTOM/plugins/zsh-syntax-highlighting
+
+nvm install --lts
+npm i -g install react-native-cli
+npm i -g install typescript
+npm i -g @angular/cli
+npm i -g notion-enhancer
